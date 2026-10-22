@@ -3,7 +3,6 @@ import CreatePost from "../components/posts/CreatePost";
 import PostActionBar from "../components/posts/PostActionBar";
 export default async function Home() {
   const posts = await getAllPost();
-  console.log(posts);
 
   return (
     <div>
