@@ -1,5 +1,4 @@
 import { MapPin, CalendarDays } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import EditProfileModal from "@/app/components/ui/EditProfileModal";
 import { getProfile } from "../../actions/profile";
 import Tabs from "../../components/ui/Tabs";
