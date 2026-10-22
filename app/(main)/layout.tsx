@@ -1,3 +1,4 @@
+import "@/app/globals.css";
 import LeftSideBar from "../components/ui/LeftSideBar";
 import Wrapper from "../components/ui/Wrapper";
 import Container from "../components/ui/Container";
